@@ -4,15 +4,16 @@ Genie is a powerful, open-source portfolio management platform inspired by Black
 
 ## Key Features
 
-- **Portfolio Construction**: Create and manage diverse portfolios with various asset classes, including currency-hedged ETFs.
-- **Risk Assessment**: Calculate essential risk metrics such as Value at Risk (VaR), Beta, and Sharpe Ratio to evaluate portfolio exposure.
-- **Performance Tracking**: Track portfolio returns, compare against benchmarks, and perform attribution analysis to measure investment success.
+- **Portfolio Construction**: Create and manage diverse portfolios with various asset classes, including mutual funds and ETFs.
+- **Risk Assessment**: Calculate essential risk metrics such as Value at Risk (VaR), Beta, Sharpe Ratio, and perform stress testing to evaluate portfolio exposure.
+- **Performance Tracking**: Track portfolio returns, compare against benchmarks, and conduct attribution analysis to measure investment success and identify performance drivers.
+- **Compliance Monitoring**: Ensure portfolios adhere to investment guidelines and regulatory constraints through automated checks and reporting.
 
 ## Project Goals
 
-- **Technical Proficiency**: Demonstrate expertise in programming, data analysis, and financial modeling using Python and other open-source tools.
-- **Domain Knowledge**: Showcase a deep understanding of portfolio management concepts, risk analysis techniques, and currency hedging strategies.
-- **Aladdin Simulation**: Provide a hands-on demonstration of functionalities similar to those found in BlackRock’s Aladdin platform.
+- **Technical Proficiency**: Demonstrate expertise in programming, data analysis, and financial modeling using Python, SQL, and other open-source tools.
+- **Domain Knowledge**: Showcase a deep understanding of portfolio management concepts, risk analysis techniques, and mutual fund/ETF management strategies.
+- **Aladdin Simulation**: Provide a hands-on demonstration of functionalities that mirror key aspects of BlackRock’s Aladdin platform, focusing on portfolio management, risk assessment, and compliance.
 
 ## Installation
 
