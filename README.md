@@ -1,6 +1,6 @@
 # Genie: An Open-Source Portfolio Management Platform
 
-Genie is a robust, open-source portfolio management tool designed to replicate key functionalities of BlackRock's Aladdin platform. This project focuses on portfolio construction, risk assessment, and performance tracking, with a specific emphasis on managing currency-hedged ETF portfolios.
+Genie is a powerful, open-source portfolio management platform inspired by BlackRock's Aladdin. This project replicates core functionalities such as portfolio construction, risk management, and performance tracking, with a focus on managing mutual fund and ETF portfolios, including compliance monitoring and automated rebalancing. Genie is designed to provide users with a comprehensive tool for optimising and overseeing diverse investment portfolios, showcasing a deep understanding of financial principles and technical proficiency.
 
 ## Key Features
 
